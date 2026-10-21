@@ -1,0 +1,204 @@
+{"id": "train-addition-5", "category": "arithmetic", "prompt": "Question: What is 5 plus 7?\nAnswer: ", "response": "12", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-5", "category": "arithmetic", "prompt": "Question: Subtract 7 from 25.\nAnswer: ", "response": "18", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-5", "category": "comparison", "prompt": "Question: Which is larger, 5 or 12?\nAnswer: ", "response": "12", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-5", "category": "classification", "prompt": "Question: Is 5 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-7", "category": "arithmetic", "prompt": "Question: What is 7 plus 2?\nAnswer: ", "response": "9", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-7", "category": "arithmetic", "prompt": "Question: Subtract 2 from 27.\nAnswer: ", "response": "25", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-7", "category": "comparison", "prompt": "Question: Which is larger, 9 or 7?\nAnswer: ", "response": "9", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-7", "category": "classification", "prompt": "Question: Is 7 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-9", "category": "arithmetic", "prompt": "Question: What is 9 plus 4?\nAnswer: ", "response": "13", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-9", "category": "arithmetic", "prompt": "Question: Subtract 4 from 29.\nAnswer: ", "response": "25", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-9", "category": "comparison", "prompt": "Question: Which is larger, 13 or 9?\nAnswer: ", "response": "13", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-9", "category": "classification", "prompt": "Question: Is 9 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-11", "category": "arithmetic", "prompt": "Question: What is 11 plus 6?\nAnswer: ", "response": "17", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-11", "category": "arithmetic", "prompt": "Question: Subtract 6 from 31.\nAnswer: ", "response": "25", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-11", "category": "comparison", "prompt": "Question: Which is larger, 17 or 11?\nAnswer: ", "response": "17", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-11", "category": "classification", "prompt": "Question: Is 11 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-12", "category": "arithmetic", "prompt": "Question: What is 12 plus 7?\nAnswer: ", "response": "19", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-12", "category": "arithmetic", "prompt": "Question: Subtract 7 from 32.\nAnswer: ", "response": "25", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-12", "category": "comparison", "prompt": "Question: Which is larger, 19 or 12?\nAnswer: ", "response": "19", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-12", "category": "classification", "prompt": "Question: Is 12 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-14", "category": "arithmetic", "prompt": "Question: What is 14 plus 2?\nAnswer: ", "response": "16", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-14", "category": "arithmetic", "prompt": "Question: Subtract 2 from 34.\nAnswer: ", "response": "32", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-14", "category": "comparison", "prompt": "Question: Which is larger, 14 or 16?\nAnswer: ", "response": "16", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-14", "category": "classification", "prompt": "Question: Is 14 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-15", "category": "arithmetic", "prompt": "Question: What is 15 plus 3?\nAnswer: ", "response": "18", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-15", "category": "arithmetic", "prompt": "Question: Subtract 3 from 35.\nAnswer: ", "response": "32", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-15", "category": "comparison", "prompt": "Question: Which is larger, 18 or 15?\nAnswer: ", "response": "18", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-15", "category": "classification", "prompt": "Question: Is 15 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-17", "category": "arithmetic", "prompt": "Question: What is 17 plus 5?\nAnswer: ", "response": "22", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-17", "category": "arithmetic", "prompt": "Question: Subtract 5 from 37.\nAnswer: ", "response": "32", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-17", "category": "comparison", "prompt": "Question: Which is larger, 17 or 22?\nAnswer: ", "response": "22", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-17", "category": "classification", "prompt": "Question: Is 17 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-18", "category": "arithmetic", "prompt": "Question: What is 18 plus 6?\nAnswer: ", "response": "24", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-18", "category": "arithmetic", "prompt": "Question: Subtract 6 from 38.\nAnswer: ", "response": "32", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-18", "category": "comparison", "prompt": "Question: Which is larger, 18 or 24?\nAnswer: ", "response": "24", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-18", "category": "classification", "prompt": "Question: Is 18 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-19", "category": "arithmetic", "prompt": "Question: What is 19 plus 7?\nAnswer: ", "response": "26", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-19", "category": "arithmetic", "prompt": "Question: Subtract 7 from 39.\nAnswer: ", "response": "32", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-19", "category": "comparison", "prompt": "Question: Which is larger, 19 or 26?\nAnswer: ", "response": "26", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-19", "category": "classification", "prompt": "Question: Is 19 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-20", "category": "arithmetic", "prompt": "Question: What is 20 plus 8?\nAnswer: ", "response": "28", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-20", "category": "arithmetic", "prompt": "Question: Subtract 8 from 40.\nAnswer: ", "response": "32", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-20", "category": "comparison", "prompt": "Question: Which is larger, 28 or 20?\nAnswer: ", "response": "28", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-20", "category": "classification", "prompt": "Question: Is 20 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-24", "category": "arithmetic", "prompt": "Question: What is 24 plus 5?\nAnswer: ", "response": "29", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-24", "category": "arithmetic", "prompt": "Question: Subtract 5 from 44.\nAnswer: ", "response": "39", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-24", "category": "comparison", "prompt": "Question: Which is larger, 24 or 29?\nAnswer: ", "response": "29", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-24", "category": "classification", "prompt": "Question: Is 24 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-26", "category": "arithmetic", "prompt": "Question: What is 26 plus 7?\nAnswer: ", "response": "33", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-26", "category": "arithmetic", "prompt": "Question: Subtract 7 from 46.\nAnswer: ", "response": "39", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-26", "category": "comparison", "prompt": "Question: Which is larger, 33 or 26?\nAnswer: ", "response": "33", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-26", "category": "classification", "prompt": "Question: Is 26 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-27", "category": "arithmetic", "prompt": "Question: What is 27 plus 8?\nAnswer: ", "response": "35", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-27", "category": "arithmetic", "prompt": "Question: Subtract 8 from 47.\nAnswer: ", "response": "39", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-27", "category": "comparison", "prompt": "Question: Which is larger, 27 or 35?\nAnswer: ", "response": "35", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-27", "category": "classification", "prompt": "Question: Is 27 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-28", "category": "arithmetic", "prompt": "Question: What is 28 plus 2?\nAnswer: ", "response": "30", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-28", "category": "arithmetic", "prompt": "Question: Subtract 2 from 48.\nAnswer: ", "response": "46", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-28", "category": "comparison", "prompt": "Question: Which is larger, 30 or 28?\nAnswer: ", "response": "30", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-28", "category": "classification", "prompt": "Question: Is 28 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-29", "category": "arithmetic", "prompt": "Question: What is 29 plus 3?\nAnswer: ", "response": "32", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-29", "category": "arithmetic", "prompt": "Question: Subtract 3 from 49.\nAnswer: ", "response": "46", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-29", "category": "comparison", "prompt": "Question: Which is larger, 32 or 29?\nAnswer: ", "response": "32", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-29", "category": "classification", "prompt": "Question: Is 29 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-33", "category": "arithmetic", "prompt": "Question: What is 33 plus 7?\nAnswer: ", "response": "40", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-33", "category": "arithmetic", "prompt": "Question: Subtract 7 from 53.\nAnswer: ", "response": "46", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-33", "category": "comparison", "prompt": "Question: Which is larger, 33 or 40?\nAnswer: ", "response": "40", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-33", "category": "classification", "prompt": "Question: Is 33 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-34", "category": "arithmetic", "prompt": "Question: What is 34 plus 8?\nAnswer: ", "response": "42", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-34", "category": "arithmetic", "prompt": "Question: Subtract 8 from 54.\nAnswer: ", "response": "46", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-34", "category": "comparison", "prompt": "Question: Which is larger, 34 or 42?\nAnswer: ", "response": "42", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-34", "category": "classification", "prompt": "Question: Is 34 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-37", "category": "arithmetic", "prompt": "Question: What is 37 plus 4?\nAnswer: ", "response": "41", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-37", "category": "arithmetic", "prompt": "Question: Subtract 4 from 57.\nAnswer: ", "response": "53", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-37", "category": "comparison", "prompt": "Question: Which is larger, 37 or 41?\nAnswer: ", "response": "41", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-37", "category": "classification", "prompt": "Question: Is 37 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-39", "category": "arithmetic", "prompt": "Question: What is 39 plus 6?\nAnswer: ", "response": "45", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-39", "category": "arithmetic", "prompt": "Question: Subtract 6 from 59.\nAnswer: ", "response": "53", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-39", "category": "comparison", "prompt": "Question: Which is larger, 45 or 39?\nAnswer: ", "response": "45", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-39", "category": "classification", "prompt": "Question: Is 39 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-42", "category": "arithmetic", "prompt": "Question: What is 42 plus 2?\nAnswer: ", "response": "44", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-42", "category": "arithmetic", "prompt": "Question: Subtract 2 from 62.\nAnswer: ", "response": "60", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-42", "category": "comparison", "prompt": "Question: Which is larger, 42 or 44?\nAnswer: ", "response": "44", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-42", "category": "classification", "prompt": "Question: Is 42 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-43", "category": "arithmetic", "prompt": "Question: What is 43 plus 3?\nAnswer: ", "response": "46", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-43", "category": "arithmetic", "prompt": "Question: Subtract 3 from 63.\nAnswer: ", "response": "60", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-43", "category": "comparison", "prompt": "Question: Which is larger, 46 or 43?\nAnswer: ", "response": "46", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-43", "category": "classification", "prompt": "Question: Is 43 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-44", "category": "arithmetic", "prompt": "Question: What is 44 plus 4?\nAnswer: ", "response": "48", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-44", "category": "arithmetic", "prompt": "Question: Subtract 4 from 64.\nAnswer: ", "response": "60", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-44", "category": "comparison", "prompt": "Question: Which is larger, 44 or 48?\nAnswer: ", "response": "48", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-44", "category": "classification", "prompt": "Question: Is 44 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-45", "category": "arithmetic", "prompt": "Question: What is 45 plus 5?\nAnswer: ", "response": "50", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-45", "category": "arithmetic", "prompt": "Question: Subtract 5 from 65.\nAnswer: ", "response": "60", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-45", "category": "comparison", "prompt": "Question: Which is larger, 50 or 45?\nAnswer: ", "response": "50", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-45", "category": "classification", "prompt": "Question: Is 45 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-46", "category": "arithmetic", "prompt": "Question: What is 46 plus 6?\nAnswer: ", "response": "52", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-46", "category": "arithmetic", "prompt": "Question: Subtract 6 from 66.\nAnswer: ", "response": "60", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-46", "category": "comparison", "prompt": "Question: Which is larger, 46 or 52?\nAnswer: ", "response": "52", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-46", "category": "classification", "prompt": "Question: Is 46 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-48", "category": "arithmetic", "prompt": "Question: What is 48 plus 8?\nAnswer: ", "response": "56", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-48", "category": "arithmetic", "prompt": "Question: Subtract 8 from 68.\nAnswer: ", "response": "60", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-48", "category": "comparison", "prompt": "Question: Which is larger, 56 or 48?\nAnswer: ", "response": "56", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-48", "category": "classification", "prompt": "Question: Is 48 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-49", "category": "arithmetic", "prompt": "Question: What is 49 plus 2?\nAnswer: ", "response": "51", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-49", "category": "arithmetic", "prompt": "Question: Subtract 2 from 69.\nAnswer: ", "response": "67", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-49", "category": "comparison", "prompt": "Question: Which is larger, 49 or 51?\nAnswer: ", "response": "51", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-49", "category": "classification", "prompt": "Question: Is 49 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-50", "category": "arithmetic", "prompt": "Question: What is 50 plus 3?\nAnswer: ", "response": "53", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-50", "category": "arithmetic", "prompt": "Question: Subtract 3 from 70.\nAnswer: ", "response": "67", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-50", "category": "comparison", "prompt": "Question: Which is larger, 53 or 50?\nAnswer: ", "response": "53", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-50", "category": "classification", "prompt": "Question: Is 50 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-53", "category": "arithmetic", "prompt": "Question: What is 53 plus 6?\nAnswer: ", "response": "59", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-53", "category": "arithmetic", "prompt": "Question: Subtract 6 from 73.\nAnswer: ", "response": "67", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-53", "category": "comparison", "prompt": "Question: Which is larger, 59 or 53?\nAnswer: ", "response": "59", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-53", "category": "classification", "prompt": "Question: Is 53 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-57", "category": "arithmetic", "prompt": "Question: What is 57 plus 3?\nAnswer: ", "response": "60", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-57", "category": "arithmetic", "prompt": "Question: Subtract 3 from 77.\nAnswer: ", "response": "74", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-57", "category": "comparison", "prompt": "Question: Which is larger, 57 or 60?\nAnswer: ", "response": "60", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-57", "category": "classification", "prompt": "Question: Is 57 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-58", "category": "arithmetic", "prompt": "Question: What is 58 plus 4?\nAnswer: ", "response": "62", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-58", "category": "arithmetic", "prompt": "Question: Subtract 4 from 78.\nAnswer: ", "response": "74", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-58", "category": "comparison", "prompt": "Question: Which is larger, 62 or 58?\nAnswer: ", "response": "62", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-58", "category": "classification", "prompt": "Question: Is 58 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-60", "category": "arithmetic", "prompt": "Question: What is 60 plus 6?\nAnswer: ", "response": "66", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-60", "category": "arithmetic", "prompt": "Question: Subtract 6 from 80.\nAnswer: ", "response": "74", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-60", "category": "comparison", "prompt": "Question: Which is larger, 66 or 60?\nAnswer: ", "response": "66", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-60", "category": "classification", "prompt": "Question: Is 60 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-61", "category": "arithmetic", "prompt": "Question: What is 61 plus 7?\nAnswer: ", "response": "68", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-61", "category": "arithmetic", "prompt": "Question: Subtract 7 from 81.\nAnswer: ", "response": "74", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-61", "category": "comparison", "prompt": "Question: Which is larger, 61 or 68?\nAnswer: ", "response": "68", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-61", "category": "classification", "prompt": "Question: Is 61 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-62", "category": "arithmetic", "prompt": "Question: What is 62 plus 8?\nAnswer: ", "response": "70", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-62", "category": "arithmetic", "prompt": "Question: Subtract 8 from 82.\nAnswer: ", "response": "74", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-62", "category": "comparison", "prompt": "Question: Which is larger, 70 or 62?\nAnswer: ", "response": "70", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-62", "category": "classification", "prompt": "Question: Is 62 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-64", "category": "arithmetic", "prompt": "Question: What is 64 plus 3?\nAnswer: ", "response": "67", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-64", "category": "arithmetic", "prompt": "Question: Subtract 3 from 84.\nAnswer: ", "response": "81", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-64", "category": "comparison", "prompt": "Question: Which is larger, 64 or 67?\nAnswer: ", "response": "67", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-64", "category": "classification", "prompt": "Question: Is 64 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-66", "category": "arithmetic", "prompt": "Question: What is 66 plus 5?\nAnswer: ", "response": "71", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-66", "category": "arithmetic", "prompt": "Question: Subtract 5 from 86.\nAnswer: ", "response": "81", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-66", "category": "comparison", "prompt": "Question: Which is larger, 66 or 71?\nAnswer: ", "response": "71", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-66", "category": "classification", "prompt": "Question: Is 66 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-68", "category": "arithmetic", "prompt": "Question: What is 68 plus 7?\nAnswer: ", "response": "75", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-68", "category": "arithmetic", "prompt": "Question: Subtract 7 from 88.\nAnswer: ", "response": "81", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-68", "category": "comparison", "prompt": "Question: Which is larger, 68 or 75?\nAnswer: ", "response": "75", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-68", "category": "classification", "prompt": "Question: Is 68 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-69", "category": "arithmetic", "prompt": "Question: What is 69 plus 8?\nAnswer: ", "response": "77", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-69", "category": "arithmetic", "prompt": "Question: Subtract 8 from 89.\nAnswer: ", "response": "81", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-69", "category": "comparison", "prompt": "Question: Which is larger, 77 or 69?\nAnswer: ", "response": "77", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-69", "category": "classification", "prompt": "Question: Is 69 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-70", "category": "arithmetic", "prompt": "Question: What is 70 plus 2?\nAnswer: ", "response": "72", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-70", "category": "arithmetic", "prompt": "Question: Subtract 2 from 90.\nAnswer: ", "response": "88", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-70", "category": "comparison", "prompt": "Question: Which is larger, 70 or 72?\nAnswer: ", "response": "72", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-70", "category": "classification", "prompt": "Question: Is 70 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-73", "category": "arithmetic", "prompt": "Question: What is 73 plus 5?\nAnswer: ", "response": "78", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-73", "category": "arithmetic", "prompt": "Question: Subtract 5 from 93.\nAnswer: ", "response": "88", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-73", "category": "comparison", "prompt": "Question: Which is larger, 78 or 73?\nAnswer: ", "response": "78", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-73", "category": "classification", "prompt": "Question: Is 73 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-74", "category": "arithmetic", "prompt": "Question: What is 74 plus 6?\nAnswer: ", "response": "80", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-74", "category": "arithmetic", "prompt": "Question: Subtract 6 from 94.\nAnswer: ", "response": "88", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-74", "category": "comparison", "prompt": "Question: Which is larger, 74 or 80?\nAnswer: ", "response": "80", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-74", "category": "classification", "prompt": "Question: Is 74 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-75", "category": "arithmetic", "prompt": "Question: What is 75 plus 7?\nAnswer: ", "response": "82", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-75", "category": "arithmetic", "prompt": "Question: Subtract 7 from 95.\nAnswer: ", "response": "88", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-75", "category": "comparison", "prompt": "Question: Which is larger, 82 or 75?\nAnswer: ", "response": "82", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-75", "category": "classification", "prompt": "Question: Is 75 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-76", "category": "arithmetic", "prompt": "Question: What is 76 plus 8?\nAnswer: ", "response": "84", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-76", "category": "arithmetic", "prompt": "Question: Subtract 8 from 96.\nAnswer: ", "response": "88", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-76", "category": "comparison", "prompt": "Question: Which is larger, 84 or 76?\nAnswer: ", "response": "84", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-76", "category": "classification", "prompt": "Question: Is 76 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-77", "category": "arithmetic", "prompt": "Question: What is 77 plus 2?\nAnswer: ", "response": "79", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-77", "category": "arithmetic", "prompt": "Question: Subtract 2 from 97.\nAnswer: ", "response": "95", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-77", "category": "comparison", "prompt": "Question: Which is larger, 77 or 79?\nAnswer: ", "response": "79", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-77", "category": "classification", "prompt": "Question: Is 77 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-addition-79", "category": "arithmetic", "prompt": "Question: What is 79 plus 4?\nAnswer: ", "response": "83", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-subtraction-79", "category": "arithmetic", "prompt": "Question: Subtract 4 from 99.\nAnswer: ", "response": "95", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-compare-79", "category": "comparison", "prompt": "Question: Which is larger, 79 or 83?\nAnswer: ", "response": "83", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-parity-79", "category": "classification", "prompt": "Question: Is 79 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-definition-solar", "category": "definition", "prompt": "Question: Give one short definition of solar.\nAnswer: ", "response": "The Sun provides energy to Earth.", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-definition-gravity", "category": "definition", "prompt": "Question: Give one short definition of gravity.\nAnswer: ", "response": "Gravity is an attractive interaction between objects with mass.", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-definition-photosynthesis", "category": "definition", "prompt": "Question: Give one short definition of photosynthesis.\nAnswer: ", "response": "Photosynthesis converts light energy into chemical energy.", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-definition-neuron", "category": "definition", "prompt": "Question: Give one short definition of neuron.\nAnswer: ", "response": "A neuron transmits information using electrical and chemical signals.", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-definition-friction", "category": "definition", "prompt": "Question: Give one short definition of friction.\nAnswer: ", "response": "Friction is a force that resists the sliding of surfaces against each other.", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-definition-density", "category": "definition", "prompt": "Question: Give one short definition of density.\nAnswer: ", "response": "Density is the mass of a substance per unit of volume.", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-definition-ecosystem", "category": "definition", "prompt": "Question: Give one short definition of ecosystem.\nAnswer: ", "response": "An ecosystem is a community of living things interacting with their physical environment.", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-definition-magnet", "category": "definition", "prompt": "Question: Give one short definition of magnet.\nAnswer: ", "response": "A magnet is an object that produces a magnetic field and attracts certain metals.", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-definition-erosion", "category": "definition", "prompt": "Question: Give one short definition of erosion.\nAnswer: ", "response": "Erosion is the process by which wind, water or ice wears away and moves rock and soil.", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-definition-habitat", "category": "definition", "prompt": "Question: Give one short definition of habitat.\nAnswer: ", "response": "A habitat is the natural environment where an organism lives.", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-definition-atom", "category": "definition", "prompt": "Question: Give one short definition of atom.\nAnswer: ", "response": "An atom is the smallest unit of an element that keeps the properties of that element.", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-definition-velocity", "category": "definition", "prompt": "Question: Give one short definition of velocity.\nAnswer: ", "response": "Velocity is the speed of an object together with its direction of motion.", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-definition-fossil", "category": "definition", "prompt": "Question: Give one short definition of fossil.\nAnswer: ", "response": "A fossil is the preserved remains or traces of an ancient organism.", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-definition-climate", "category": "definition", "prompt": "Question: Give one short definition of climate.\nAnswer: ", "response": "Climate is the typical pattern of weather in a region over many years.", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-definition-molecule", "category": "definition", "prompt": "Question: Give one short definition of molecule.\nAnswer: ", "response": "A molecule is a group of atoms bonded together.", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-definition-respiration", "category": "definition", "prompt": "Question: Give one short definition of respiration.\nAnswer: ", "response": "Respiration is the process by which cells release energy from food.", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-definition-volcano", "category": "definition", "prompt": "Question: Give one short definition of volcano.\nAnswer: ", "response": "A volcano is an opening in the Earth's crust through which molten rock and gas can erupt.", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-definition-circuit", "category": "definition", "prompt": "Question: Give one short definition of circuit.\nAnswer: ", "response": "A circuit is a closed path along which electric current can flow.", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-definition-predator", "category": "definition", "prompt": "Question: Give one short definition of predator.\nAnswer: ", "response": "A predator is an animal that hunts and eats other animals.", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-definition-orbit", "category": "definition", "prompt": "Question: Give one short definition of orbit.\nAnswer: ", "response": "An orbit is the curved path of one object around another under gravity.", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-definition-germination", "category": "definition", "prompt": "Question: Give one short definition of germination.\nAnswer: ", "response": "Germination is the process by which a seed begins to grow into a plant.", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-definition-lever", "category": "definition", "prompt": "Question: Give one short definition of lever.\nAnswer: ", "response": "A lever is a rigid bar that turns around a fixed point to help move a load.", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-definition-tide", "category": "definition", "prompt": "Question: Give one short definition of tide.\nAnswer: ", "response": "A tide is the regular rise and fall of sea level caused mainly by the Moon's gravity.", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}
+{"id": "train-definition-sediment", "category": "definition", "prompt": "Question: Give one short definition of sediment.\nAnswer: ", "response": "Sediment is solid material such as sand or silt that is moved and deposited by water, wind or ice.", "origin": "synthetic_deterministic_unreviewed_v05_layout2"}

@@ -1,0 +1,87 @@
+{
+  "layout": 2,
+  "origin": "self-contained deterministic synthetic toy examples; unreviewed",
+  "purpose": "Exercise completion-only training and measure template transfer, kept separate from extrapolation",
+  "fixes_relative_to_layout_1": [
+    "compare operand order is balanced (answer is first or second number about half the time) so copying is not a winning strategy",
+    "in-range dev/test numbers are interleaved with train numbers inside the same range (all values < 100)",
+    "extrapolation is its own labeled category (extrapolation_arithmetic, extrapolation_comparison): every operand and answer >= 100, none in train",
+    "definition has 24/10/10 items instead of 4/1/1"
+  ],
+  "limitations": [
+    "Only four numeric templates plus definitions",
+    "Same task templates recur across splits",
+    "Definition exact-match on unseen concepts measures recall of text never seen in training; use masked answer CE/token accuracy for that category and treat exact match as uninformative",
+    "Definitions are short textbook statements written without independent review",
+    "Not sufficient evidence of instruction following or reasoning",
+    "Not an independent untouched benchmark unless never used for tuning",
+    "Layout 1 data/ is retained unchanged; checkpoints record dataset hashes, so layout 1 and layout 2 checkpoints are not interchangeable"
+  ],
+  "counts": {
+    "train": 204,
+    "dev": 115,
+    "test": 115
+  },
+  "category_counts": {
+    "train": {
+      "arithmetic": 90,
+      "classification": 45,
+      "comparison": 45,
+      "definition": 24
+    },
+    "dev": {
+      "arithmetic": 30,
+      "classification": 15,
+      "comparison": 15,
+      "definition": 10,
+      "extrapolation_arithmetic": 30,
+      "extrapolation_comparison": 15
+    },
+    "test": {
+      "arithmetic": 30,
+      "classification": 15,
+      "comparison": 15,
+      "definition": 10,
+      "extrapolation_arithmetic": 30,
+      "extrapolation_comparison": 15
+    }
+  },
+  "compare_answer_position": {
+    "train": {
+      "comparison": {
+        "n": 45,
+        "answer_is_first_number": 22,
+        "answer_is_second_number": 23
+      }
+    },
+    "dev": {
+      "comparison": {
+        "n": 15,
+        "answer_is_first_number": 7,
+        "answer_is_second_number": 8
+      },
+      "extrapolation_comparison": {
+        "n": 15,
+        "answer_is_first_number": 7,
+        "answer_is_second_number": 8
+      }
+    },
+    "test": {
+      "comparison": {
+        "n": 15,
+        "answer_is_first_number": 7,
+        "answer_is_second_number": 8
+      },
+      "extrapolation_comparison": {
+        "n": 15,
+        "answer_is_first_number": 7,
+        "answer_is_second_number": 8
+      }
+    }
+  },
+  "sha256": {
+    "train": "88dd345ef2463de223dedfc0184deb4812221036e425b461797880b531839ea7",
+    "dev": "f4d7de50f9ca1f47fddbf44b6371a26aaecff18f607e9c29c1244737c3f05f99",
+    "test": "420578ae6ee56adc7f68e219e959c5b3d12658f8773055351c81c8eafa5302ce"
+  }
+}

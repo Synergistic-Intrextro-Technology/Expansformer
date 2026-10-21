@@ -13,6 +13,17 @@ A **separate, reversible research experiment**, written for the Expansformer v0.
 - Checkpoints can be resumed only using the same optimizer/learning schedule, dataset file hashes, tokenizer, architecture, and output directory. Changing `--stop-after` is allowed.
 - This is a proof-of-training pilot, not a guarantee that a 28M-parameter pretrained model will achieve instruction competence with this small dataset.
 
+## Layout 2 data (`data_v2/`, opt-in)
+
+The original `data/` (layout 1) is unchanged and remains the default in every command below. It has three measurement problems: `compare` always answers with the second number (copying scores 100%), numeric ranges are disjoint across splits so "unseen numbers" and "larger than ever trained" are mixed together, and `definition` has 4/1/1 items. `data_v2/` addresses these:
+
+- compare operand order is balanced (7 or 8 of 15 per group), so copying either position scores about 53%;
+- in-range dev/test numbers are interleaved with train numbers inside the same range (everything below 100);
+- extrapolation (every operand and answer 100 or more, none in train) is its own labeled category: `extrapolation_arithmetic`, `extrapolation_comparison`;
+- definitions are 24/10/10. Exact match on unseen definitions is not informative; use masked answer CE and token accuracy for that category.
+
+Build and test: `python3 build_starter_data.py --layout v2` (writes `data_v2/`); `python -m unittest discover -s Expansformer_v05_Instruction_Pilot/tests`. To use it, point `--data` at `data_v2`. Checkpoints record dataset hashes, so a layout 1 checkpoint cannot be evaluated or resumed against layout 2 data (the trainer refuses). Counts are 204/115/115 (train has fewer numeric rows than layout 1). Still synthetic, template-based and unreviewed; the guarantees above are about measurement design, not language ability. Not yet checked with the real 4,096-ID tokenizer.
+
 ## 1. Install in WSL
 
 Place ZIP in `~/ACTIVE_PROJECTS/Expansformer_v03_Research`, then:
