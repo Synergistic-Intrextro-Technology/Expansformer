@@ -1,0 +1,114 @@
+{
+  "dataset": "Expansformer Knowledge & Reasoning Dataset",
+  "schema_version": 4,
+  "created_at": "2026-10-18T04:28:04.229098+00:00",
+  "network_access": "disabled",
+  "training_evidence_separation": true,
+  "reasoning_task_types": [
+    "causal",
+    "counterfactual",
+    "tradeoff",
+    "cross_domain_synthesis",
+    "experimental_problem_solving"
+  ],
+  "reasoning_example_required_fields": [
+    "id",
+    "task_type",
+    "prompt",
+    "constraints",
+    "answer",
+    "rationale",
+    "source_ids"
+  ],
+  "cross_domain_synthesis_required_fields": [
+    "domain_tags",
+    "shared_mechanism",
+    "mechanism_evidence"
+  ],
+  "experimental_problem_solving_required_fields": [
+    "hypothesis",
+    "experiment_design",
+    "observed_outcome",
+    "interpretation",
+    "failed_prediction",
+    "model_revision"
+  ],
+  "epistemic_example_required_fields": [
+    "id",
+    "prompt",
+    "supported_claims",
+    "disputed_claims",
+    "assumptions",
+    "unknowns",
+    "conclusion",
+    "source_ids"
+  ],
+  "evaluation_record_required_fields": [
+    "id",
+    "task_type",
+    "input",
+    "expected",
+    "scoring",
+    "source_ids"
+  ],
+  "source_quality_status_values": [
+    "UNREVIEWED",
+    "INDEPENDENTLY_REVIEWED"
+  ],
+  "status_semantics": {
+    "INDEPENDENTLY_REVIEWED": "importer-supplied review assertion with evidence reference; not authenticated by this tool",
+    "SOURCE_DECLARED_NOT_INDEPENDENTLY_VERIFIED": "metadata claim supplied by importer",
+    "UNKNOWN": "rights status not established",
+    "RESTRICTED": "do not train or redistribute without separate authorization"
+  },
+  "limits": [
+    "hashes prove byte identity only",
+    "quality diagnostics do not establish accuracy",
+    "exact duplicate scan does not detect paraphrase or benchmark contamination"
+  ],
+  "source_review_record_fields": [
+    "review_id",
+    "source_id",
+    "reviewer_id",
+    "reviewer_affiliation",
+    "relationship_to_source",
+    "reviewed_at",
+    "method",
+    "evidence_refs",
+    "ratings",
+    "decision"
+  ],
+  "source_quality_rubric": [
+    "domain_relevance",
+    "editorial_process",
+    "factual_support",
+    "source_authority",
+    "transparency"
+  ],
+  "source_review_threshold": "Two accepting reviewers, distinct reviewer IDs and affiliations, self-declared independence, complete ratings, evidence references, and rubric scores of at least 1",
+  "evaluation_task_types": [
+    "language_modeling",
+    "factuality",
+    "reasoning",
+    "generalization",
+    "uncertainty_calibration",
+    "abstention"
+  ],
+  "evaluation_task_tracks": {
+    "language_modeling": "language",
+    "factuality": "factuality",
+    "reasoning": "reasoning",
+    "generalization": "generalization",
+    "uncertainty_calibration": "uncertainty_calibration",
+    "abstention": "abstention"
+  },
+  "evaluation_scoring_required_fields": [
+    "metric",
+    "protocol"
+  ],
+  "license_manifest_extra_fields": [
+    "license_terms_url",
+    "license_scope",
+    "additional_license_urls"
+  ]
+}

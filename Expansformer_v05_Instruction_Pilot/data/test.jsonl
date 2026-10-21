@@ -1,0 +1,61 @@
+{"id": "test-addition-80", "category": "arithmetic", "prompt": "Question: What is 80 plus 5?\nAnswer: ", "response": "85", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-subtraction-80", "category": "arithmetic", "prompt": "Question: Subtract 5 from 100.\nAnswer: ", "response": "95", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-parity-80", "category": "classification", "prompt": "Question: Is 80 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-compare-80", "category": "comparison", "prompt": "Question: Which is larger, 80 or 85?\nAnswer: ", "response": "85", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-addition-81", "category": "arithmetic", "prompt": "Question: What is 81 plus 6?\nAnswer: ", "response": "87", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-subtraction-81", "category": "arithmetic", "prompt": "Question: Subtract 6 from 101.\nAnswer: ", "response": "95", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-parity-81", "category": "classification", "prompt": "Question: Is 81 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-compare-81", "category": "comparison", "prompt": "Question: Which is larger, 81 or 87?\nAnswer: ", "response": "87", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-addition-82", "category": "arithmetic", "prompt": "Question: What is 82 plus 7?\nAnswer: ", "response": "89", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-subtraction-82", "category": "arithmetic", "prompt": "Question: Subtract 7 from 102.\nAnswer: ", "response": "95", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-parity-82", "category": "classification", "prompt": "Question: Is 82 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-compare-82", "category": "comparison", "prompt": "Question: Which is larger, 82 or 89?\nAnswer: ", "response": "89", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-addition-83", "category": "arithmetic", "prompt": "Question: What is 83 plus 8?\nAnswer: ", "response": "91", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-subtraction-83", "category": "arithmetic", "prompt": "Question: Subtract 8 from 103.\nAnswer: ", "response": "95", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-parity-83", "category": "classification", "prompt": "Question: Is 83 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-compare-83", "category": "comparison", "prompt": "Question: Which is larger, 83 or 91?\nAnswer: ", "response": "91", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-addition-84", "category": "arithmetic", "prompt": "Question: What is 84 plus 2?\nAnswer: ", "response": "86", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-subtraction-84", "category": "arithmetic", "prompt": "Question: Subtract 2 from 104.\nAnswer: ", "response": "102", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-parity-84", "category": "classification", "prompt": "Question: Is 84 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-compare-84", "category": "comparison", "prompt": "Question: Which is larger, 84 or 86?\nAnswer: ", "response": "86", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-addition-85", "category": "arithmetic", "prompt": "Question: What is 85 plus 3?\nAnswer: ", "response": "88", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-subtraction-85", "category": "arithmetic", "prompt": "Question: Subtract 3 from 105.\nAnswer: ", "response": "102", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-parity-85", "category": "classification", "prompt": "Question: Is 85 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-compare-85", "category": "comparison", "prompt": "Question: Which is larger, 85 or 88?\nAnswer: ", "response": "88", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-addition-86", "category": "arithmetic", "prompt": "Question: What is 86 plus 4?\nAnswer: ", "response": "90", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-subtraction-86", "category": "arithmetic", "prompt": "Question: Subtract 4 from 106.\nAnswer: ", "response": "102", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-parity-86", "category": "classification", "prompt": "Question: Is 86 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-compare-86", "category": "comparison", "prompt": "Question: Which is larger, 86 or 90?\nAnswer: ", "response": "90", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-addition-87", "category": "arithmetic", "prompt": "Question: What is 87 plus 5?\nAnswer: ", "response": "92", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-subtraction-87", "category": "arithmetic", "prompt": "Question: Subtract 5 from 107.\nAnswer: ", "response": "102", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-parity-87", "category": "classification", "prompt": "Question: Is 87 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-compare-87", "category": "comparison", "prompt": "Question: Which is larger, 87 or 92?\nAnswer: ", "response": "92", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-addition-88", "category": "arithmetic", "prompt": "Question: What is 88 plus 6?\nAnswer: ", "response": "94", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-subtraction-88", "category": "arithmetic", "prompt": "Question: Subtract 6 from 108.\nAnswer: ", "response": "102", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-parity-88", "category": "classification", "prompt": "Question: Is 88 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-compare-88", "category": "comparison", "prompt": "Question: Which is larger, 88 or 94?\nAnswer: ", "response": "94", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-addition-89", "category": "arithmetic", "prompt": "Question: What is 89 plus 7?\nAnswer: ", "response": "96", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-subtraction-89", "category": "arithmetic", "prompt": "Question: Subtract 7 from 109.\nAnswer: ", "response": "102", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-parity-89", "category": "classification", "prompt": "Question: Is 89 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-compare-89", "category": "comparison", "prompt": "Question: Which is larger, 89 or 96?\nAnswer: ", "response": "96", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-addition-90", "category": "arithmetic", "prompt": "Question: What is 90 plus 8?\nAnswer: ", "response": "98", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-subtraction-90", "category": "arithmetic", "prompt": "Question: Subtract 8 from 110.\nAnswer: ", "response": "102", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-parity-90", "category": "classification", "prompt": "Question: Is 90 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-compare-90", "category": "comparison", "prompt": "Question: Which is larger, 90 or 98?\nAnswer: ", "response": "98", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-addition-91", "category": "arithmetic", "prompt": "Question: What is 91 plus 2?\nAnswer: ", "response": "93", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-subtraction-91", "category": "arithmetic", "prompt": "Question: Subtract 2 from 111.\nAnswer: ", "response": "109", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-parity-91", "category": "classification", "prompt": "Question: Is 91 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-compare-91", "category": "comparison", "prompt": "Question: Which is larger, 91 or 93?\nAnswer: ", "response": "93", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-addition-92", "category": "arithmetic", "prompt": "Question: What is 92 plus 3?\nAnswer: ", "response": "95", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-subtraction-92", "category": "arithmetic", "prompt": "Question: Subtract 3 from 112.\nAnswer: ", "response": "109", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-parity-92", "category": "classification", "prompt": "Question: Is 92 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-compare-92", "category": "comparison", "prompt": "Question: Which is larger, 92 or 95?\nAnswer: ", "response": "95", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-addition-93", "category": "arithmetic", "prompt": "Question: What is 93 plus 4?\nAnswer: ", "response": "97", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-subtraction-93", "category": "arithmetic", "prompt": "Question: Subtract 4 from 113.\nAnswer: ", "response": "109", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-parity-93", "category": "classification", "prompt": "Question: Is 93 even or odd?\nAnswer: ", "response": "odd", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-compare-93", "category": "comparison", "prompt": "Question: Which is larger, 93 or 97?\nAnswer: ", "response": "97", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-addition-94", "category": "arithmetic", "prompt": "Question: What is 94 plus 5?\nAnswer: ", "response": "99", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-subtraction-94", "category": "arithmetic", "prompt": "Question: Subtract 5 from 114.\nAnswer: ", "response": "109", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-parity-94", "category": "classification", "prompt": "Question: Is 94 even or odd?\nAnswer: ", "response": "even", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-compare-94", "category": "comparison", "prompt": "Question: Which is larger, 94 or 99?\nAnswer: ", "response": "99", "origin": "synthetic_deterministic_unreviewed_v05"}
+{"id": "test-definition-condensation", "category": "definition", "prompt": "Question: Give one short definition of condensation.\nAnswer: ", "response": "Condensation is the change of gas into liquid.", "origin": "synthetic_deterministic_unreviewed_v05"}

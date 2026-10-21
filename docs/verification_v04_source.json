@@ -1,0 +1,37 @@
+{
+  "release": "v0.4 research",
+  "test_count": 33,
+  "passed": true,
+  "hardware": "cpu",
+  "torch": "2.10.0+cpu",
+  "comparison": {
+    "dense_exits": {
+      "parameters": 123520,
+      "final_val_loss": 5.2811830043792725,
+      "best_val_loss": 5.2811830043792725,
+      "train_next_token_head_loss": 0.0
+    },
+    "memory_exits": {
+      "parameters": 132738,
+      "final_val_loss": 5.283247232437134,
+      "best_val_loss": 5.283247232437134,
+      "train_next_token_head_loss": 0.0
+    },
+    "memory_heads": {
+      "parameters": 132803,
+      "final_val_loss": 5.282079219818115,
+      "best_val_loss": 5.282079219818115,
+      "train_next_token_head_loss": 0.6862598061561584
+    },
+    "dense_vs_memory": 0.002064228057861328,
+    "memory_vs_memory_heads": -0.0011680126190185547,
+    "scope": "12 optimizer steps, repeated toy English text, CPU, byte tokenizer; NOT a language-quality benchmark"
+  },
+  "restrictions": [
+    "No claim of model improvement",
+    "CUDA not tested here",
+    "No new pretraining corpus",
+    "No factual truth verifier in model",
+    "No Ollama export"
+  ]
+}

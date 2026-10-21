@@ -1,0 +1,54 @@
+{
+  "test_environment": {
+    "torch": "2.10.0+cpu",
+    "device": "cpu"
+  },
+  "fixture": "offline synthetic repeated text, NOT language competence",
+  "runs": [
+    {
+      "variant": "baseline",
+      "parameters": 123456,
+      "best_validation_loss": 5.3330237865448,
+      "optimizer_steps": 8,
+      "console_last_line": "Complete; checkpoints in /tmp/tmpov0fc9ps/baseline. Native PyTorch generation only; Ollama export not yet implemented."
+    },
+    {
+      "variant": "moe_exits",
+      "parameters": 345216,
+      "best_validation_loss": 5.322870254516602,
+      "optimizer_steps": 8,
+      "console_last_line": "Complete; checkpoints in /tmp/tmpov0fc9ps/moe_exits. Native PyTorch generation only; Ollama export not yet implemented."
+    }
+  ],
+  "comparison": {
+    "candidate_minus_baseline_loss": -0.010153532028198242,
+    "note": "Controls matched, but MoE changes parameter count/compute. One seed cannot establish a reliable advantage."
+  },
+  "preservation": {
+    "expansformer_model/model.py": {
+      "sha256": "705388727dc0860462f2762728f629c93ba6979432a7abceaeeb69f79640f89b",
+      "matches_v021": true
+    },
+    "expansformer_model/MoE.py": {
+      "sha256": "e9885692dd8e76a8fca1420f74bcc1727bf9fc6184e7595df0600097009397a1",
+      "matches_v021": true
+    },
+    "train_expansformer_v02.py": {
+      "sha256": "ddf91a6828a6a29da7d2257485a48e7e100f90c9b678d265a3f1c7c3238ff49c",
+      "matches_v021": true
+    },
+    "train_expansformer_v01.py": {
+      "sha256": "4e6095913dee4e6e3d39437b25eab374373bbf823bf4f4c0852ea9225d3a7a0d",
+      "matches_v021": true
+    },
+    "corpus_builder.py": {
+      "sha256": "7476c41c01a01a65141b5afa9abdc0a86d15f6d205385b4d3af0ff54df7880e6",
+      "matches_v021": true
+    }
+  },
+  "tests": {
+    "count": 26,
+    "passed": 26,
+    "source": "python -m unittest discover -s tests -v (CPU)"
+  }
+}

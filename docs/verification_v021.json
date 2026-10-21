@@ -1,0 +1,41 @@
+{
+  "environment": "PyTorch 2.10.0+cpu; no GPU present",
+  "test_suite": "11/11 passed (CPU)",
+  "smoke": "toy data only",
+  "matched_test_runs": [
+    {
+      "mode": "classic",
+      "wall_clock_seconds": 1.335478267000326,
+      "validation_initial": 5.655878067016602,
+      "validation_final": 5.610924243927002,
+      "checkpoint_step": 3
+    },
+    {
+      "mode": "sdpa",
+      "wall_clock_seconds": 0.1337765709999985,
+      "validation_initial": 5.655878305435181,
+      "validation_final": 5.610924243927002,
+      "checkpoint_step": 3
+    }
+  ],
+  "network_wikipedia_download": "NOT TESTED - mock used",
+  "ollama_export": "NOT IMPLEMENTED",
+  "language_quality": "NOT ESTABLISHED",
+  "test_command": "python train_expansformer_v02.py smoke",
+  "test_coverage": [
+    "BPE unicode",
+    "document holdout",
+    "manifest tamper",
+    "SDPA gradient parity",
+    "interruption resume identity",
+    "metrics-tail crash recovery",
+    "dataset change rejection",
+    "local source retrieval",
+    "literal quotation gate",
+    "Wikipedia acquisition mocked",
+    "parameter memory estimator"
+  ],
+  "download_status": "Only opt-in collector implemented; no live Wikipedia acquisition performed.",
+  "quality_statement": "Only toy synthetic data trained. No established knowledge, calibrated uncertainty or strategic reasoning.",
+  "performance_note": "Wall clock measurements are illustrative only (non-randomized 3-step runs; warmup effects); do not interpret as an SDPA speedup guarantee."
+}

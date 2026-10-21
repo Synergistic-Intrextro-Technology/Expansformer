@@ -1,0 +1,20 @@
+{
+  "origin": "self-contained deterministic synthetic toy examples; unreviewed",
+  "purpose": "Exercise completion-only training and evaluate limited template transfer",
+  "limitations": [
+    "Only four numeric templates plus a few definitions",
+    "Same task templates recur across splits; number ranges are disjoint",
+    "Not sufficient evidence of instruction following or reasoning",
+    "Not an independent untouched benchmark unless never used for tuning"
+  ],
+  "counts": {
+    "train": 244,
+    "dev": 61,
+    "test": 61
+  },
+  "sha256": {
+    "train": "8f5662826106269ebe00d4c4e5925b38e1922c1d7333629ce61183bf41d3cd7c",
+    "dev": "926bd850cb12f33dd5ef9e4c711fbf54844701df9fc465225e508389e5cdd7e8",
+    "test": "8355374ebb0dd53d8748d6568e41e9b2ac0b41dfb4b9850631f1428a870ffefb"
+  }
+}

@@ -1,0 +1,119 @@
+test_balanced_default_includes_all_domains (test_corpus_v021.CorpusV021Tests.test_balanced_default_includes_all_domains) ... ok
+test_collection_contains_domain_and_license_provenance (test_corpus_v021.CorpusV021Tests.test_collection_contains_domain_and_license_provenance) ... Fetched Probability theory: 1,439 characters
+Fetched Computer science: 1,391 characters
+Fetched Thermodynamics: 1,343 characters
+Fetched Evolution: 1,223 characters
+Fetched Economics: 1,223 characters
+Fetched History of science: 1,439 characters
+Fetched Control theory: 1,343 characters
+Fetched Epistemology: 1,295 characters
+Fetched Epidemiology: 1,295 characters
+Fetched Music theory: 1,295 characters
+Fetched Linear algebra: 1,343 characters
+Fetched Algorithm: 1,223 characters
+Fetched Scientific method: 1,415 characters
+Fetched Cell biology: 1,295 characters
+Fetched Sociology: 1,223 characters
+Fetched History of mathematics: 1,535 characters
+Fetched Systems engineering: 1,463 characters
+Fetched Logic: 1,127 characters
+Fetched Evidence-based medicine: 1,559 characters
+Fetched Architecture: 1,295 characters
+Fetched Bayesian inference: 1,439 characters
+Fetched Computer security: 1,415 characters
+Fetched Quantum mechanics: 1,415 characters
+Fetched Genetics: 1,199 characters
+Fetched Psychology: 1,247 characters
+Fetched Industrial Revolution: 1,511 characters
+Fetched Electrical engineering: 1,535 characters
+Fetched Ethics: 1,151 characters
+Fetched Public health: 1,319 characters
+Fetched Literary criticism: 1,439 characters
+Fetched Mathematical proof: 1,439 characters
+Fetched Machine learning: 1,391 characters
+ok
+test_content_diagnostics_repeated_lines (test_corpus_v021.CorpusV021Tests.test_content_diagnostics_repeated_lines) ... ok
+test_no_partial_publication_when_network_returns_too_few_documents (test_corpus_v021.CorpusV021Tests.test_no_partial_publication_when_network_returns_too_few_documents) ... {
+  "documents": 32,
+  "requested": 32,
+  "domains": {
+    "arts": 3,
+    "computing": 4,
+    "engineering": 3,
+    "history": 3,
+    "life_science": 3,
+    "mathematics": 4,
+    "medicine": 3,
+    "philosophy": 3,
+    "physical_science": 3,
+    "social_science": 3
+  },
+  "warnings": [
+    "Source license statement is not independent rights clearance",
+    "Downloaded source text is not fact verified"
+  ]
+}
+Corpus ready: /tmp/tmpz7km4bcd/wiki. Review licenses, attribution, quality and source claims before reuse.
+SKIP (short extract): History of science
+SKIP (short extract): History of mathematics
+ok
+test_rate_limit_retry_after (test_corpus_v021.CorpusV021Tests.test_rate_limit_retry_after) ... ok
+test_reject_bad_api_response_without_repeated_requests (test_corpus_v021.CorpusV021Tests.test_reject_bad_api_response_without_repeated_requests) ... ok
+test_small_selection_reaches_distinct_domains (test_corpus_v021.CorpusV021Tests.test_small_selection_reaches_distinct_domains) ... ok
+test_claim_gate_rejects_unsupported (test_v02.V02Tests.test_claim_gate_rejects_unsupported) ... ok
+test_evidence_index_distinguishes_retrieval (test_v02.V02Tests.test_evidence_index_distinguishes_retrieval) ... ok
+test_manifest_detects_tamper (test_v02.V02Tests.test_manifest_detects_tamper) ... ok
+test_parameter_estimator_matches_model (test_v02.V02Tests.test_parameter_estimator_matches_model) ... ok
+test_recover_metrics_after_checkpoint_before_log (test_v02.V02Tests.test_recover_metrics_after_checkpoint_before_log) ... ok
+test_resume_rejects_changed_corpus (test_v02.V02Tests.test_resume_rejects_changed_corpus) ... Expansformer v0.2 | cpu (float32) | attention=sdpa | 123,456 parameters | train=13,894 / val=2,002 tokens | documents=7/1
+update 1/2 | train 5.6059 | lr 0.0003 | val 5.5790 | bpb 8.049 | best 5.5790
+ok
+test_sdpa_parity (test_v02.V02Tests.test_sdpa_parity) ... ok
+test_split_determinism_no_leakage (test_v02.V02Tests.test_split_determinism_no_leakage) ... ok
+test_tokenizer_unicode_roundtrip (test_v02.V02Tests.test_tokenizer_unicode_roundtrip) ... Complete; checkpoints in /tmp/tmpe5bxqu31/run. Native PyTorch generation only; Ollama export not yet implemented.
+Training BPE from 1,280 bytes (up to 20 merges)...
+Tokenizer vocabulary: 280
+ok
+test_training_resume_equivalent_to_uninterrupted (test_v02.V02Tests.test_training_resume_equivalent_to_uninterrupted) ... Expansformer v0.2 | cpu (float32) | attention=sdpa | 123,456 parameters | train=13,894 / val=2,002 tokens | documents=7/1
+update 1/3 | train 5.6059 | lr 0.0003 | val 5.5790 | bpb 8.049 | best 5.5790
+update 2/3 | train 5.5326 | lr 0.0003 | val 5.5580 | bpb 8.018 | best 5.5580
+update 3/3 | train 5.5388 | lr 0.000155 | val 5.5440 | bpb 7.998 | best 5.5440
+Complete; checkpoints in /tmp/tmpl9a32kmx/baseline. Native PyTorch generation only; Ollama export not yet implemented.
+Expansformer v0.2 | cpu (float32) | attention=sdpa | 123,456 parameters | train=13,894 / val=2,002 tokens | documents=7/1
+update 1/3 | train 5.6059 | lr 0.0003 | val 5.5790 | bpb 8.049 | best 5.5790
+Complete; checkpoints in /tmp/tmpl9a32kmx/interrupted. Native PyTorch generation only; Ollama export not yet implemented.
+Expansformer v0.2 | cpu (float32) | attention=sdpa | 123,456 parameters | train=13,894 / val=2,002 tokens | documents=7/1
+update 2/3 | train 5.5326 | lr 0.0003 | val 5.5580 | bpb 8.018 | best 5.5580
+update 3/3 | train 5.5388 | lr 0.000155 | val 5.5440 | bpb 7.998 | best 5.5440
+ok
+test_wiki_acquisition_mocked_offline (test_v02.V02Tests.test_wiki_acquisition_mocked_offline) ... Complete; checkpoints in /tmp/tmpl9a32kmx/interrupted. Native PyTorch generation only; Ollama export not yet implemented.
+Evidence:::::
+Fetched Probability theory: 891 characters
+Fetched Linear algebra: 887 characters
+Fetched Bayesian inference: 891 characters
+ok
+test_cannot_resume_when_experiment_switch_changes (test_v03.V03Tests.test_cannot_resume_when_experiment_switch_changes) ... ok
+test_causal_mask_prevents_future_leakage (test_v03.V03Tests.test_causal_mask_prevents_future_leakage) ... ok
+test_mismatch_ablation_is_not_comparable (test_v03.V03Tests.test_mismatch_ablation_is_not_comparable) ... ok
+test_moe_gradient_and_auxiliary_exit_gradient (test_v03.V03Tests.test_moe_gradient_and_auxiliary_exit_gradient) ... ok
+test_original_model_is_identical_when_disabled (test_v03.V03Tests.test_original_model_is_identical_when_disabled) ... ok
+test_research_config_validation (test_v03.V03Tests.test_research_config_validation) ... ok
+test_train_resume_same_weights_and_generate_at_depth (test_v03.V03Tests.test_train_resume_same_weights_and_generate_at_depth) ... ok
+test_untrained_intermediate_exit_forbidden (test_v03.V03Tests.test_untrained_intermediate_exit_forbidden) ... ok
+
+----------------------------------------------------------------------
+Ran 26 tests in 3.955s
+
+OK
+{
+  "documents": 3,
+  "requested": 3,
+  "domains": {
+    "mathematics": 3
+  },
+  "warnings": [
+    "Source license statement is not independent rights clearance",
+    "Downloaded source text is not fact verified"
+  ]
+}
+Corpus ready: /tmp/tmp5phtrvwo/wiki. Review licenses, attribution, quality and source claims before reuse.

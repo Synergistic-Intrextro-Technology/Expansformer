@@ -1,0 +1,29 @@
+# Python and local tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Training outputs can contain multi-gigabyte checkpoints and run data.
+runs/
+*.pt
+*.pth
+*.ckpt
+
+# Local corpus and candidate acquisition data; keep source code and documentation.
+pmc_license_review_07/
+review_queue_499_final/
+review_queue_human_259/
+topic_gap_batch_30/
+topic_gap_batch_240_revised/
+topic_gap_human_expansion/
+topic_gap_human_expansion_excluded/
+topic_gap_source_inventory/
+wikipedia_acquisition_1000_incoming/
+wikipedia_acquisition_human_focus_incoming/
+wikipedia_stage_100_normalized/
+
+# Transferable archives are generated deliverables; their source directories remain tracked.
+*.zip
+*:Zone.Identifier
